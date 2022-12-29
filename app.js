@@ -47,6 +47,12 @@ soundBar.addEventListener("click", () => {
     ball.classList.toggle("off");
 });
 
+const amor = 'Te amo Daniela, te amo mucho mucho mi amor' 
+
+// mucho, y aunque no estemos por estudiar cybersec, si quise dejarte un regalo adicional 
+// porque se que puedes estudiar por tu cuenta y tu voluntad no te detendra.
+// https://www.isc2.org/landing/1MCC
+
 setTimeout(function(){
     myLove(`%c 
     Te has preguntado por que sigo intentandolo contigo aun despues 
